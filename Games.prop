@@ -1,0 +1,16 @@
+{
+	"modules": { 
+		"Games": {
+			"version": "1.0",
+			"name": "Games",
+			"rules": {
+				"jeuxcarte":["choose * card"],
+				"jeux1de":["throw * die"],
+				"jeux2de":["throw two dice", "(throw|lunch) 2 d"],
+				"jeuxpileface":["heads or tails", "toss * coin"],
+				"blackjack":["blackjack","black jack"]
+			}
+		}
+	}
+}
+			
