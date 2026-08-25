@@ -1,0 +1,27 @@
+{
+    "speech": {
+        "choise": "Je tire $$ de $$",
+        "dice1": "Le dé indique $$",
+        "dice2": "Le premier dé indique $$, le deuxième indique $$. Total $$.",
+        "pileface": "Faites votre choix, dites : Pile ou face ?, ou dites : annuler ou terminer",
+        "result": "La pièce est tombée sur $$",
+        "win": "Bravo, vous avez gagné !",
+        "lose": "Dommage, vous avez perdu.",
+        "croupier_main": "Les cartes du croupier sont $$. Il a $$ points.",
+        "croupier_tire": "Le croupier tire le $$ de $$. Il a $$ points.",
+        "croupier_bust": "Le croupier dépasse 21. Vous gagnez !",
+        "player_win": "Vous avez plus de points que le croupier. Vous gagnez !",
+        "dealer_win": "Le croupier a plus de points. Vous avez perdu.",
+        "draw": "Égalité !",
+        "askAction": "Voulez-vous tirer une carte ou rester ?",
+        "player_draw": "Vous tirez le $$ de $$. Vous avez $$ points.",
+        "player_bust": "Vous avez dépassé 21. Vous avez perdu.",
+        "player_21": "Vous avez 21 !",
+        "player_stand": "Vous restez avec $$ points.",
+        "and": " et ",
+        "card_of": "$$ de $$",
+        "player_start": "Vos cartes sont $$. Vous avez $$ points.",
+        "blackjack_start": "Blackjack ! Vous avez 21.",
+        "cancel": "annulé|terminé"
+    }
+}

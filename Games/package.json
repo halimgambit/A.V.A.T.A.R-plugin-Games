@@ -1,0 +1,12 @@
+{
+    "name": "Games",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin Games for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "Games"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }
