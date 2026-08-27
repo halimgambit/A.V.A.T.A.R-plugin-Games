@@ -19,7 +19,7 @@ export async function action(data, callback) {
 
 		const Locale = await Avatar.lang.getPak('Games', data.language);
 		if (!Locale) {
-			throw new Error(`jarvis: Unable to find the '${data.language}' language pak.`);
+			throw new Error(`Games: Unable to find the '${data.language}' language pak.`);
 		
 		}
         const client = data.client;
